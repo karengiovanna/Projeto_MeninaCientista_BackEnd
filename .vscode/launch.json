@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MeninaCientistaApplication<Menina-Cientista>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "meninacientista.com.menina.cientista.MeninaCientistaApplication",
+            "projectName": "Menina-Cientista",
+            "args": ""
+        }
+    ]
+}
